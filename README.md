@@ -10,8 +10,8 @@
 Simply point your camera at anything. SeeForMe instantly describes what it sees in natural, spoken language — helping you navigate the world with confidence and independence.
 
 - 🔒 Privacy-First: All AI processing happens on-device. Your camera feed is never uploaded, stored, or shared. Ever.
-- 📴 Works Offline: No WiFi? No problem. SeeForMe works anywhere — on planes, in subways, or remote areas with zero connectivity.
-- ⚡ Instant Results: Powered by on-device AI (Cactus), get real-time scene descriptions in seconds.
+- 📴 Works Offline: SeeForMe works anywhere — on planes, in subways, or remote areas with zero connectivity.
+- ⚡ Instant Results: Powered by on-device AI, get real-time scene descriptions in seconds.
 
 **Your world, described. Your privacy, protected.**
 
@@ -145,18 +145,6 @@ Live Camera Feed → Image Capture → LFM2-VL Processing →
 Natural Language Generation → Text-to-Speech Engine → Audio Output
 ```
 
-### **Performance Optimizations**
-- **Smart Memory Management**: Efficient image processing with automatic cleanup
-- **Battery Optimization**: Camera management and processing throttling
-- **Storage Efficiency**: Model compression and lazy loading
-- **Network Independence**: Zero cloud dependencies after setup
-
-### **Accessibility Integration**
-- **VoiceOver (iOS)**: Full navigation and content reading
-- **TalkBack (Android)**: Complete screen reader support  
-- **Switch Control**: External switch navigation capability
-- **Voice Control**: iOS voice navigation compatibility
-
 ## 📊 Performance Metrics
 
 | Metric | Value | Industry Standard |
@@ -173,26 +161,6 @@ Natural Language Generation → Text-to-Speech Engine → Audio Output
 - **Primary**: 285M people with blindness/severe visual impairment worldwide
 - **Secondary**: Low vision users, elderly with declining sight
 - **Situational**: Anyone in low-light conditions, temporary vision impairment
-
-### **Real-World Applications**
-
-#### **Independent Living**
-- Grocery shopping and product identification
-- Clothing selection and color coordination  
-- Medication management and label reading
-- Home organization and item location
-
-#### **Professional Development**  
-- Workplace document review and analysis
-- Meeting material preparation and review
-- Email and text message content understanding
-- Presentation and visual content description
-
-#### **Social Interaction**
-- Photo sharing and social media engagement
-- Understanding visual context in conversations
-- Event and gathering navigation
-- Cultural and recreational activity participation
 
 ## 🏆 Hackathon Innovation Highlights
 
@@ -214,20 +182,6 @@ Natural Language Generation → Text-to-Speech Engine → Audio Output
 - **Scalable Technology**: Framework supports multiple AI models and use cases
 - **Open Source Ready**: Architecture designed for community contribution
 
-## 📈 Market Opportunity
-
-### **Total Addressable Market**
-- **Global Visually Impaired Population**: 285 million people
-- **Assistive Technology Market**: $14.6 billion (2023)
-- **Annual Growth Rate**: 7.4% CAGR
-- **Mobile Penetration**: 85%+ smartphone adoption
-
-### **Competitive Advantages**
-- **Offline Capability**: Unique in the market
-- **Privacy Protection**: No data collection or sharing
-- **Professional Quality**: Enterprise-grade AI performance
-- **Accessibility Focus**: Purpose-built for visually impaired users
-
 ## 🛡️ Privacy & Security
 
 ### **Privacy-by-Design Principles**
@@ -242,15 +196,6 @@ Natural Language Generation → Text-to-Speech Engine → Audio Output
 - ✅ **No Tracking**: No analytics, metrics, or usage monitoring
 - ✅ **Open Source**: Transparent code for security review
 
----
-
-## 🙏 Acknowledgments
-
-Special thanks to:
-- **Visually Impaired Beta Testers** for invaluable real-world feedback
-- **LiquidAI** for the groundbreaking LFM2-VL vision-language model  
-- **Cactus Team** for the React Native AI inference SDK
-- **Hackathon Organizers** for promoting accessibility innovation
 
 ---
 
